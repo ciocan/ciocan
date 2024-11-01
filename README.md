@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ciocan/ciocan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📈 My GitHub stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.ciocan.dev/api?username=ciocan&theme=one_dark_pro&show_icons=true&hide_border=true&count_private=true" alt="Radu Ciocan's Stats" height="175" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ciocan&theme=one_dark_pro&hide_border=true" alt="Radu Ciocan's Streak" height="175">
+    <a href="https://wakatime.com/@ciocan" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ciocan&langs_count=14&layout=compact&theme=one_dark_pro&hide_border=true" alt="Radu Ciocan's WakaTime stats" height="238">
+    </a>
+  </p>
+</div>
